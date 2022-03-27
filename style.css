@@ -19,7 +19,7 @@ p {
 	font-size: 1em;
 	line-height: 1.4em;
 	margin-bottom: 20px;
-	color: #808080;
+	color: #FFFFFF;
 }
 
 #cv {
@@ -32,7 +32,7 @@ p {
 .mainDetails {
 	padding: 25px 35px;
 	border-bottom: 2px solid #5BC0BE;
-	background: #808080;
+	background: #FFFFF;
 }
 
 #name h1 {
@@ -100,7 +100,7 @@ p {
 
 
 section {
-	border-top: 1px solid #5BC0BE;
+	border-top: 1px solid #808080;
 	padding: 20px 0 0;
 }
 
@@ -147,7 +147,7 @@ section:last-child {
 }
 
 .sectionContent img {
-	border: 2px solid #808080;
+	border: 2px solid #FFFFFF;
 }
 
 .subDetails {
